@@ -1,5 +1,15 @@
 # 2025-09-09
 
+## 21:35 📝 嘟文
+
+**内容**：好看🥰  
+原帖：<https://www.instagram.com/p/DOEiP-MCswo>
+
+![Image](media/115174595232526697-df46c9934ec07eb1.jpg)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115174599457745354
+
+---
 ## 03:14 📝 嘟文
 
 **内容**：好酷的邮箱后缀，<https://z.org>
