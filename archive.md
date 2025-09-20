@@ -1,3 +1,23 @@
+# 2025-09-21
+
+## 01:38 📝 嘟文
+
+**内容**：iPhone 系列参数对比，新款的也有了  
+<https://www.hubweb.cn/apple-device/iphone/>
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115237842914099707
+
+---
+## 00:11 💬 回复
+
+**内容**：太傻逼了🤬
+
+![Image](media/115237487820396149-09f02d17bce18f74.png)
+
+**回复嘟文**：https://mastodon.social/@Eyoz/115237497399428042
+
+---
+
 # 2025-09-19
 
 ## 19:27 📝 嘟文
