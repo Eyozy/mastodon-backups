@@ -1,5 +1,14 @@
 # 2025-10-29
 
+## 23:06 📝 嘟文
+
+**内容**：Gemini 的评价好高🤣，项目是 <https://github.com/Eyozy/flomo-to-markdown>
+
+![Image](media/115458069681446201-f9cb260347940c67.png)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115458073731720857
+
+---
 ## 15:57 📝 嘟文
 
 **内容**：新图标
