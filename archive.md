@@ -1,3 +1,13 @@
+# 2025-11-01
+
+## 20:21 📝 嘟文
+
+**内容**：CherryStudio 出移动端了，<https://github.com/CherryHQ/cherry-studio-app/releases/tag/0.1.0>
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115474409775147865
+
+---
+
 # 2025-10-31
 
 ## 17:06 📝 嘟文
