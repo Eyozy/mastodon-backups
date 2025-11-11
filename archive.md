@@ -1,3 +1,16 @@
+# 2025-11-11
+
+## 21:36 📝 嘟文
+
+**内容**：豆包的 Coding Plan 用量好大方  
+<https://www.volcengine.com/activity/codingplan>
+
+![Image](media/115531310921721515-9c110cfaa9446ae4.png)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115531330005515603
+
+---
+
 # 2025-11-05
 
 ## 09:35 📝 嘟文
