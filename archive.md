@@ -1,3 +1,14 @@
+# 2025-11-14
+
+## 20:02 📝 嘟文
+
+**内容**：一个本地分析 Claude Code 会话并生成生产力报告的命令行工具  
+<https://github.com/vibe-log/vibe-log-cli>
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115547948865989134
+
+---
+
 # 2025-11-13
 
 ## 13:48 📝 嘟文
