@@ -1,3 +1,15 @@
+# 2025-11-16
+
+## 00:00 📝 嘟文
+
+**内容**：换了个统计插件😁，<https://github.com/chongdashu/cc-statusline>
+
+![Image](media/115554541561083604-65cb4c0d5af7228b.png)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115554545011131127
+
+---
+
 # 2025-11-14
 
 ## 20:02 📝 嘟文
