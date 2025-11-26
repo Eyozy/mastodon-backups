@@ -214,6 +214,7 @@
             display: flex;
             align-items: center;
             gap: 1rem;
+            padding: 1rem 0; 
         }
 
         .search-container {
@@ -620,12 +621,15 @@
             margin-bottom: 0;
         }
 
-        
+
         .status-content a {
             color: var(--accent-color);
             text-decoration: none;
             position: relative;
             transition: color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            word-wrap: break-word; /* 防止长链接溢出 */
+            overflow-wrap: break-word; /* 确保在所有浏览器中都有效 */
+            word-break: break-word; /* 处理特别长的单词 */
         }
 
         .status-content a::after {
@@ -801,7 +805,7 @@
         
         @media (max-width: 768px) {
             .header-content {
-                padding: 0 0.5rem;
+                padding: 1rem 0.5rem;
             }
 
             .container {
@@ -1062,22 +1066,12 @@
             }
 
             .status-footer {
-                flex-direction: column;
-                align-items: flex-start;
-                gap: 0.75rem;
-                margin-top: 0.75rem;
-                padding-top: 0.75rem;
-            }
-
-            .status-stats {
-                order: 2;
-                width: 100%;
-                gap: 1rem;
+                flex-direction: row;
+                justify-content: space-between;
             }
 
             .status-link {
-                order: 1;
-                align-self: flex-end;
+                align-self: center;
             }
 
             .pagination {
