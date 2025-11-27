@@ -4,6 +4,7 @@
 
 ## 2025 年活动热力图
 
-今年以来，你一共发布了 83 篇嘟文。
+该年共发布了 83 篇嘟文。
 
-![Activity Heatmap](./heatmap.svg)
+![2025 Activity Heatmap](./heatmap-2025.svg)
+
