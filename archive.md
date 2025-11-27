@@ -149,7 +149,7 @@
 ## 22:50 📝 嘟文
 
 **内容**：试了自己的，评价好高🤣  
-发现于：<https://fxtwitter.com/hwwaanng/status/1985275729278541990>
+发现于：<https://x.com/hwwaanng/status/1985275729278541990>
 
 ![Image](media/115491969251884227-78f4f89a12a7d45f.png)
 
