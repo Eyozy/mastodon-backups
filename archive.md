@@ -1,5 +1,14 @@
 # 2025-11-29
 
+## 12:40 📝 嘟文
+
+**内容**：Sora 生成的这张图片好贴合动漫风格
+
+![路飞，微笑，抱着娜美](media/115631135345267621-f0de18bf1662647c.png)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115631143743752450
+
+---
 ## 12:06 📝 嘟文
 
 **内容**：阿里新出的这个模型好强，连 NSFW 图片都可以生成，<https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo>
