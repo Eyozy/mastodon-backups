@@ -1,3 +1,13 @@
+# 2025-11-29
+
+## 12:06 📝 嘟文
+
+**内容**：阿里新出的这个模型好强，连 NSFW 图片都可以生成，<https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo>
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115631009188227983
+
+---
+
 # 2025-11-27
 
 ## 20:22 💬 回复
