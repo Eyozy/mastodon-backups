@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@Eyoz的 Mastodon 备份</title>
-    <meta name="description" content="<p>Hello,Mastodon!</p>">
+    <meta name="description" content="Hello,Mastodon!">
     <meta property="og:title" content="@Eyoz@mastodon.social">
-    <meta property="og:description" content="<p>Hello,Mastodon!</p>">
+    <meta property="og:description" content="Hello,Mastodon!">
     <meta property="og:type" content="profile">
-    <meta property="og:image" content="media/header-115011970085596365.jpg">
+    <meta property="og:image" content="https://files.mastodon.social/accounts/headers/115/011/970/085/596/365/original/e346105822e07d83.jpg">
     <link rel="icon" type="image/png" href="https://files.mastodon.social/accounts/avatars/115/011/970/085/596/365/original/d64b1c8592eae6b2.jpg">
     <style>
 
@@ -729,11 +729,13 @@ h4, .h4 {
 
 .hashtag {
     color: var(--accent-color);
-    text-decoration: none;
+    text-decoration: none !important;  /* 确保覆盖原始内容中的样式 */
+    transition: border-bottom-color 0.2s ease;
 }
 
 .hashtag:hover {
-    text-decoration: underline;
+    text-decoration: none !important;  /* 确保没有默认下划线 */
+    border-bottom: 1px solid var(--accent-color);  /* 使用底部边框作为下划线 */
 }
 
 .custom-emoji {
@@ -1560,7 +1562,6 @@ function createPostHTML(post) {
                 </div>
                 <div class="status-content">
                     ${post.content}
-                    ${tagsHTML ? `<div style="margin-top: 0.5rem;">${tagsHTML}</div>` : ''}
                 </div>
                 ${mediaHTML}
                 <div class="status-footer">
@@ -1587,7 +1588,6 @@ function createPostHTML(post) {
                 </div>
                 <div class="status-content">
                     ${post.content}
-                    ${tagsHTML ? `<div style="margin-top: 0.5rem;">${tagsHTML}</div>` : ''}
                 </div>
                 ${mediaHTML}
                 <div class="status-footer">
@@ -1614,7 +1614,6 @@ function createPostHTML(post) {
                 </div>
                 <div class="status-content">
                     ${post.content}
-                    ${tagsHTML ? `<div style="margin-top: 0.5rem;">${tagsHTML}</div>` : ''}
                 </div>
                 ${mediaHTML}
                 <div class="status-footer">
