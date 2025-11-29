@@ -1,5 +1,13 @@
 # 2025-11-29
 
+## 21:42 📝 嘟文
+
+**内容**：这个不错，<https://glidea.github.io/banana-prompt-quicker/>  
+[#AI](https://mastodon.social/tags/AI)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115633275916863351
+
+---
 ## 12:40 📝 嘟文
 
 **内容**：Sora 生成的这张图片好贴合动漫风格
