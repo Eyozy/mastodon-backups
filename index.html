@@ -612,6 +612,92 @@ h4, .h4 {
     line-height: 1.6;
 }
 
+/* 为所有帖子图片添加点击查看大图功能 */
+.status-content > img,
+.media-gallery img.media-item {
+    display: block !important;
+    cursor: pointer !important;
+    transition: transform 0.2s ease !important;
+}
+
+.status-content > img:hover {
+    transform: scale(1.02) !important;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
+}
+
+/* 图片模态框样式 */
+#imageModal {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.9);
+}
+
+#imageModal .modal-content {
+    margin: auto;
+    display: block;
+    max-width: 90%;
+    max-height: 90%;
+    /* 完全居中 */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transform-origin: center; /* 确保缩放从中心开始 */
+    will-change: transform; /* 提升动画性能 */
+    image-rendering: crisp-edges; /* 优化图片渲染 */
+}
+
+#imageModal #caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+#imageModal .modal-content,
+#imageModal #caption {
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@keyframes zoom {
+    from {
+        transform: translate(-50%, -50%) scale(0); /* 保持居中 */
+        opacity: 0;
+    }
+    to {
+        transform: translate(-50%, -50%) scale(1); /* 保持居中 */
+        opacity: 1;
+    }
+}
+
+#imageModal .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+#imageModal .close:hover,
+#imageModal .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
 .status-content p {
     margin-bottom: 1rem;
 }
@@ -1335,6 +1421,13 @@ input:focus-visible {
     </style>
 </head>
 <body>
+<!-- 图片放大模态框 -->
+<div id="imageModal" class="modal">
+    <span class="close">&times;</span>
+    <img class="modal-content" id="modalImage">
+    <div id="caption"></div>
+</div>
+
 <header class="header">
     <div class="header-content">
         <div class="search-container">
@@ -1739,6 +1832,45 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', fun
         document.documentElement.setAttribute('data-theme', newTheme);
         updateThemeIcon(newTheme);
     }
+});
+
+// 图片点击放大功能
+document.addEventListener('DOMContentLoaded', function() {
+    const modal = document.getElementById('imageModal');
+    const modalImg = document.getElementById('modalImage');
+    const captionText = document.getElementById('caption');
+
+    // 为所有帖子图片添加点击事件
+    const images = document.querySelectorAll('.status-content > img, .media-gallery img.media-item');
+
+    images.forEach(img => {
+        img.addEventListener('click', function() {
+            modal.style.display = 'block';
+            modalImg.src = this.src;
+            modalImg.alt = this.alt;
+            captionText.innerHTML = this.alt;
+        });
+    });
+
+    // 点击关闭按钮
+    const closeBtn = document.querySelector('#imageModal .close');
+    closeBtn.addEventListener('click', function() {
+        modal.style.display = 'none';
+    });
+
+    // 点击模态框背景关闭
+    modal.addEventListener('click', function(e) {
+        if (e.target === modal) {
+            modal.style.display = 'none';
+        }
+    });
+
+    // 按 ESC 键关闭
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && modal.style.display === 'block') {
+            modal.style.display = 'none';
+        }
+    });
 });
 
 const backToTopBtn = document.createElement('button');
