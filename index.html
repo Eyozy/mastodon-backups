@@ -8,9 +8,6 @@
     <meta property="og:title" content="@Eyoz@mastodon.social">
     <meta property="og:description" content="Hello,Mastodon!">
     <meta property="og:type" content="profile">
-    <meta property="og:image" content="https://files.mastodon.social/accounts/headers/115/011/970/085/596/365/original/e346105822e07d83.jpg">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
     <link rel="icon" type="image/png" href="https://files.mastodon.social/accounts/avatars/115/011/970/085/596/365/original/d64b1c8592eae6b2.jpg">
     <style>
 
@@ -1521,6 +1518,7 @@ document.addEventListener('DOMContentLoaded', function() {
     setupSearch();
     setupThemeToggle();
     setupPagination();
+    setupImageModal();
 });
 
 function renderCurrentPage() {
@@ -1541,6 +1539,9 @@ function renderCurrentPage() {
 
     timeline.innerHTML = postsToShow.map(post => createPostHTML(post)).join('');
     updatePaginationUI();
+
+    // 重新绑定图片点击事件
+    setupImageModal();
 }
 
 function renderPosts(posts) {
@@ -1835,7 +1836,9 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', fun
 });
 
 // 图片点击放大功能
-document.addEventListener('DOMContentLoaded', function() {
+let modalInitialized = false;
+
+function setupImageModal() {
     const modal = document.getElementById('imageModal');
     const modalImg = document.getElementById('modalImage');
     const captionText = document.getElementById('caption');
@@ -1852,26 +1855,31 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // 点击关闭按钮
-    const closeBtn = document.querySelector('#imageModal .close');
-    closeBtn.addEventListener('click', function() {
-        modal.style.display = 'none';
-    });
-
-    // 点击模态框背景关闭
-    modal.addEventListener('click', function(e) {
-        if (e.target === modal) {
+    // 只初始化一次事件监听器
+    if (!modalInitialized) {
+        // 点击关闭按钮
+        const closeBtn = document.querySelector('#imageModal .close');
+        closeBtn.onclick = function() {
             modal.style.display = 'none';
-        }
-    });
+        };
 
-    // 按 ESC 键关闭
-    document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape' && modal.style.display === 'block') {
-            modal.style.display = 'none';
-        }
-    });
-});
+        // 点击模态框背景关闭
+        modal.onclick = function(e) {
+            if (e.target === modal) {
+                modal.style.display = 'none';
+            }
+        };
+
+        // 按 ESC 键关闭
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && modal.style.display === 'block') {
+                modal.style.display = 'none';
+            }
+        });
+
+        modalInitialized = true;
+    }
+}
 
 const backToTopBtn = document.createElement('button');
 backToTopBtn.className = 'back-to-top';
