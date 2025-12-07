@@ -1,3 +1,14 @@
+# 2025-12-07
+
+## 21:53 💬 回复
+
+**内容**：1000 美金只适用 Vertex AI Search，似乎用不上🤣  
+<https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn>
+
+**回复嘟文**：https://mastodon.social/@Eyoz/115678616151705794
+
+---
+
 # 2025-12-04
 
 ## 21:45 💬 回复
