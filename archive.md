@@ -1,5 +1,12 @@
 # 2025-12-15
 
+## 21:35 📝 嘟文
+
+**内容**：在考虑要不要订阅 Google AI Pro🤔 ，最近高频率使用有点离不开了，虽然每月 20 美金，但是能用最新的模型，可以画图、做 PPT，还有更高的 NotebookLM、Antigravity 使用配额，挺划算的
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115723844387170773
+
+---
 ## 10:14 📝 嘟文
 
 **内容**：NotebookLM 生成的 PDF 可以发送给 Gemini，告诉它生成 PPT，生成后导入 Google 幻灯片就得到一份可下载的 PPT 了
