@@ -1,3 +1,16 @@
+# 2025-12-16
+
+## 12:11 📝 嘟文
+
+**内容**：这个插件不错，可以监控 Antigravity 中模型的使用额度  
+<https://github.com/jlcodes99/vscode-antigravity-cockpit>
+
+![Image](media/115727289027419465-be9ea2166377d244.png)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115727290801526406
+
+---
+
 # 2025-12-15
 
 ## 21:35 📝 嘟文
