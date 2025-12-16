@@ -45,7 +45,7 @@
 
 **内容**：又用 AI 做了个好玩的
 
-![Image](media/115696079527297880-4dcee7735ca93cb3.png)
+![Image](media/115726374791318612-a3bcfccbcc049b16.jpg)
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115696088532553462
 
