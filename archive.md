@@ -1,5 +1,15 @@
 # 2025-12-20
 
+## 15:37 📝 嘟文
+
+**内容**：Bento 关闭后还有以下产品可以作为替代  
+1、<https://kee.so/>   
+2、<https://www.glnc.me/> （内测阶段）  
+3、<https://www.avely.me/> （新产品，未开放）
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115750746333660321
+
+---
 ## 13:54 📝 嘟文
 
 **内容**：原来 The Unarchiver 和 CleanMyMac 都是 MacPaw 旗下的产品
