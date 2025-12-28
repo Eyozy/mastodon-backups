@@ -1,3 +1,14 @@
+# 2025-12-28
+
+## 16:08 📝 嘟文
+
+**内容**：把 Mac 上的剪切板换成了 iClipboard，算是目前最符合我需求的了  
+<https://github.com/tenoms/iClipboard>
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115796168108506740
+
+---
+
 # 2025-12-24
 
 ## 10:50 📝 嘟文
