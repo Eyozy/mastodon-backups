@@ -1,5 +1,16 @@
 # 2025-12-29
 
+## 23:13 📝 嘟文
+
+**内容**：Mastodon 官方的总结好简单，没我自己开发的 Mastodon Wrapped 详细  
+<https://mastodon-wrapped.vercel.app/>
+
+![Image](media/115803451412061016-641cedfb8073350d.png)
+![Image](media/115803451567470957-bb3e31796e6b18dc.png)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115803501449112983
+
+---
 ## 22:55 📝 嘟文
 
 **内容**：优化后的界面（图二）似乎更贴合网站
