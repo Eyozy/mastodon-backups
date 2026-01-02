@@ -1,13 +1,13 @@
 <svg width="717" height="146" xmlns="http://www.w3.org/2000/svg">
 <style>.month-label, .wday-label, .year-label, .total-label, .user-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji"; font-size: 9px; fill: #767676; } .year-label { font-size: 14px; font-weight: 600; } .total-label { font-size: 11px; font-weight: 500; } .user-label { font-size: 10px; }</style>
 <text x="0" y="15" class="year-label">2026</text>
-<text x="712" y="15" class="total-label" text-anchor="end">共 4 条嘟文</text>
+<text x="712" y="15" class="total-label" text-anchor="end">共 5 条嘟文</text>
 <text x="712" y="141" class="user-label" text-anchor="end">@Eyoz@mastodon.social</text>
 <text x="0" y="58" class="wday-label">M</text>
 <text x="0" y="84" class="wday-label">W</text>
 <text x="0" y="110" class="wday-label">F</text>
 <rect x="25" y="87" width="10" height="10" fill="#40c463" rx="2" ry="2"><title>2026-01-01: 3 posts</title></rect>
-<rect x="25" y="100" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2026-01-02: 1 post</title></rect>
+<rect x="25" y="100" width="10" height="10" fill="#9be9a8" rx="2" ry="2"><title>2026-01-02: 2 posts</title></rect>
 <rect x="25" y="113" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-03: 0 posts</title></rect>
 <rect x="38" y="35" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-04: 0 posts</title></rect>
 <rect x="38" y="48" width="10" height="10" fill="#ebedf0" rx="2" ry="2"><title>2026-01-05: 0 posts</title></rect>
