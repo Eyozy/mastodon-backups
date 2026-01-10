@@ -1,3 +1,16 @@
+# 2026-01-10
+
+## 17:28 📝 嘟文
+
+**内容**：这个项目不错，可以在 Pixel 上实时显示网速  
+<https://github.com/Mystery00/PixelMeter>
+
+![Image](media/115870092498614294-ff145a07db308a6c.png)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115870094727108035
+
+---
+
 # 2026-01-06
 
 ## 22:04 📝 嘟文
