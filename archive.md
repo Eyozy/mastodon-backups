@@ -1,3 +1,14 @@
+# 2026-01-17
+
+## 13:57 📝 嘟文
+
+**内容**：Astro 加入 Cloudflare 了  
+<https://astro.build/blog/joining-cloudflare/>
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115908899641384503
+
+---
+
 # 2026-01-12
 
 ## 13:37 📝 嘟文
