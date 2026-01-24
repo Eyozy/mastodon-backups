@@ -1,3 +1,14 @@
+# 2026-01-24
+
+## 10:08 📝 嘟文
+
+**内容**：Vercel 开源的这个工具真不错，一行命令就能把 skills 安装到本地的 Agent 工具中  
+<https://github.com/vercel-labs/add-skill>
+
+**原始嘟文**：https://mastodon.social/@Eyoz/115947634591659887
+
+---
+
 # 2026-01-22
 
 ## 21:05 📝 嘟文
