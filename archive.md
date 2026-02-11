@@ -1,5 +1,13 @@
 # 2026-02-11
 
+## 16:01 📝 嘟文
+
+**内容**：记得是 23 年开始看 How to Learn Blender，结果到 26 年了还没下载学习 Blender🤣  
+<https://www.youtube.com/watch?v=C_t7CIncHxM>
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116050945281818920
+
+---
 ## 13:57 📝 嘟文
 
 **内容**：在家线上看完了疯狂动物城2
