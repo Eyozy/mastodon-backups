@@ -3,7 +3,7 @@
 ## 19:20 📝 嘟文
 
 **内容**：用起来巨慢，浪费了 30 块😓  
-<https://maas.ai-yuanjing.com/doc/pages/216556920/>
+https://maas.ai-yuanjing.com/doc/pages/216556920/
 
 **原始嘟文**：https://mastodon.social/@Eyoz/116147985472361563
 
@@ -11,7 +11,7 @@
 ## 10:35 💬 回复
 
 **内容**：账号解封了👏  
-<https://x.com/antigravity/status/2027435365275967591>
+https://x.com/antigravity/status/2027435365275967591
 
 **回复嘟文**：https://mastodon.social/@Eyoz/116145923406196495
 
@@ -44,7 +44,7 @@
 ## 14:06 📝 嘟文
 
 **内容**：NotebookLM 付费用户支持修改幻灯片和导出 PPTX 格式了  
-<https://x.com/NotebookLM/status/2023851190102986970>
+https://x.com/NotebookLM/status/2023851190102986970
 
 **原始嘟文**：https://mastodon.social/@Eyoz/116101454207834798
 
@@ -65,7 +65,7 @@
 ## 12:40 📝 嘟文
 
 **内容**：这篇文章比那些教你怎么去 AI 味的实用百倍  
-<https://baoyu.io/blog/2026-02-14/remove-ai-writing-flavor>
+https://baoyu.io/blog/2026-02-14/remove-ai-writing-flavor
 
 **原始嘟文**：https://mastodon.social/@Eyoz/116072803328253370
 
@@ -76,7 +76,7 @@
 ## 15:07 📝 嘟文
 
 **内容**：之前大热的 Typeless 被曝出隐私风险，担心隐私或涉及机密的还是使用本地模型吧  
-<https://x.com/medmuspg/status/2021198792524169650>
+https://x.com/medmuspg/status/2021198792524169650
 
 **原始嘟文**：https://mastodon.social/@Eyoz/116062056473035472
 
@@ -94,7 +94,7 @@
 ## 16:01 📝 嘟文
 
 **内容**：记得是 23 年开始看 How to Learn Blender，结果到 26 年了还没下载学习 Blender🤣  
-<https://www.youtube.com/watch?v=C_t7CIncHxM>
+https://www.youtube.com/watch?v=C_t7CIncHxM
 
 **原始嘟文**：https://mastodon.social/@Eyoz/116050945281818920
 
@@ -135,7 +135,7 @@
 
 ## 18:27 📝 嘟文
 
-**内容**：RE: <https://mastodon.social/@Eyoz/116034424176737073>
+**内容**：RE: https://mastodon.social/@Eyoz/116034424176737073
 
 没什么需求，不继续折腾浪费时间了😑
 
@@ -216,7 +216,7 @@
 ## 10:08 📝 嘟文
 
 **内容**：Vercel 开源的这个工具真不错，一行命令就能把 skills 安装到本地的 Agent 工具中  
-<https://github.com/vercel-labs/add-skill>
+https://github.com/vercel-labs/add-skill
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115947634591659887
 
@@ -305,7 +305,7 @@
 ## 13:57 📝 嘟文
 
 **内容**：Astro 加入 Cloudflare 了  
-<https://astro.build/blog/joining-cloudflare/>
+https://astro.build/blog/joining-cloudflare/
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115908899641384503
 
@@ -335,7 +335,7 @@
 ## 17:28 📝 嘟文
 
 **内容**：这个项目不错，可以在 Pixel 上实时显示网速  
-<https://github.com/Mystery00/PixelMeter>
+https://github.com/Mystery00/PixelMeter
 
 ![Image](media/115870092498614294-ff145a07db308a6c.png)
 
@@ -348,7 +348,7 @@
 ## 22:04 📝 嘟文
 
 **内容**：改成公开仓库开源了  
-<https://github.com/Eyozy/duodash>
+https://github.com/Eyozy/duodash
 
 ![Image](media/115848513364403320-e0b288bdd77e55d8.png)
 
@@ -414,7 +414,7 @@
 ## 23:13 📝 嘟文
 
 **内容**：Mastodon 官方的总结好简单，没我自己开发的 Mastodon Wrapped 详细  
-<https://mastodon-wrapped.vercel.app/>
+https://mastodon-wrapped.vercel.app/
 
 ![Image](media/115803451412061016-641cedfb8073350d.png)
 ![Image](media/115803451567470957-bb3e31796e6b18dc.png)
@@ -447,7 +447,7 @@
 ## 16:08 📝 嘟文
 
 **内容**：把 Mac 上的剪切板换成了 iClipboard，算是目前最符合我需求的了  
-<https://github.com/tenoms/iClipboard>
+https://github.com/tenoms/iClipboard
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115796168108506740
 
@@ -457,7 +457,7 @@
 
 ## 10:50 📝 嘟文
 
-**内容**：RE: <https://mastodon.social/@Eyoz/115750746333660321>
+**内容**：RE: https://mastodon.social/@Eyoz/115750746333660321
 
 Avely 开放注册了
 
@@ -476,7 +476,7 @@ Avely 开放注册了
 ---
 ## 08:58 📝 嘟文
 
-**内容**：好漂亮的网站，<https://rene.wang/>
+**内容**：好漂亮的网站，https://rene.wang/
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115766167669081347
 
@@ -497,9 +497,9 @@ Avely 开放注册了
 ## 15:37 📝 嘟文
 
 **内容**：Bento 关闭后还有以下产品可以作为替代  
-1、<https://kee.so/>   
-2、<https://www.glnc.me/> （内测阶段）  
-3、<https://www.avely.me/> （新产品，未开放）
+1、https://kee.so/   
+2、https://www.glnc.me/ （内测阶段）  
+3、https://www.avely.me/ （新产品，未开放）
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115750746333660321
 
@@ -552,7 +552,7 @@ Avely 开放注册了
 ## 12:11 📝 嘟文
 
 **内容**：这个插件不错，可以监控 Antigravity 中模型的使用额度  
-<https://github.com/jlcodes99/vscode-antigravity-cockpit>
+https://github.com/jlcodes99/vscode-antigravity-cockpit
 
 ![Image](media/115727289027419465-be9ea2166377d244.png)
 
@@ -628,7 +628,7 @@ Avely 开放注册了
 ## 21:53 💬 回复
 
 **内容**：1000 美金只适用 Vertex AI Search，似乎用不上🤣  
-<https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn>
+https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 
 **回复嘟文**：https://mastodon.social/@Eyoz/115678616151705794
 
@@ -731,7 +731,7 @@ Avely 开放注册了
 ---
 ## 22:40 💬 回复
 
-**内容**：提示词来源：<https://x.com/IamEmily2050/status/1994624635300974734>
+**内容**：提示词来源：https://x.com/IamEmily2050/status/1994624635300974734
 
 ![Image](media/115639163256384106-d3b7313eb4044e2b.jpg)
 
@@ -752,7 +752,7 @@ Avely 开放注册了
 
 ## 21:42 📝 嘟文
 
-**内容**：这个不错，<https://glidea.github.io/banana-prompt-quicker/>  
+**内容**：这个不错，https://glidea.github.io/banana-prompt-quicker/  
 [#AI](https://mastodon.social/tags/AI)
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115633275916863351
@@ -769,7 +769,7 @@ Avely 开放注册了
 ---
 ## 12:06 📝 嘟文
 
-**内容**：阿里新出的这个模型好强，连 NSFW 图片都可以生成，<https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo>
+**内容**：阿里新出的这个模型好强，连 NSFW 图片都可以生成，https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115631009188227983
 
@@ -848,7 +848,7 @@ Avely 开放注册了
 
 ## 00:00 📝 嘟文
 
-**内容**：换了个统计插件😁，<https://github.com/chongdashu/cc-statusline>
+**内容**：换了个统计插件😁，https://github.com/chongdashu/cc-statusline
 
 ![Image](media/115554541561083604-65cb4c0d5af7228b.png)
 
@@ -861,7 +861,7 @@ Avely 开放注册了
 ## 20:02 📝 嘟文
 
 **内容**：一个本地分析 Claude Code 会话并生成生产力报告的命令行工具  
-<https://github.com/vibe-log/vibe-log-cli>
+https://github.com/vibe-log/vibe-log-cli
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115547948865989134
 
@@ -888,7 +888,7 @@ Avely 开放注册了
 ---
 ## 18:22 📝 嘟文
 
-**内容**：RE: <https://mastodon.social/@Eyoz/115531330005515603>
+**内容**：RE: https://mastodon.social/@Eyoz/115531330005515603
 
 1200 次请求实测消耗比 GLM 还快，不太够用😬
 
@@ -908,7 +908,7 @@ Avely 开放注册了
 ## 21:36 📝 嘟文
 
 **内容**：豆包的 Coding Plan 用量好大方  
-<https://www.volcengine.com/activity/codingplan>
+https://www.volcengine.com/activity/codingplan
 
 ![Image](media/115531310921721515-9c110cfaa9446ae4.png)
 
@@ -933,7 +933,7 @@ Avely 开放注册了
 ## 22:50 📝 嘟文
 
 **内容**：试了自己的，评价好高🤣  
-发现于：<https://x.com/hwwaanng/status/1985275729278541990>
+发现于：https://x.com/hwwaanng/status/1985275729278541990
 
 ![Image](media/115491969251884227-78f4f89a12a7d45f.png)
 
@@ -981,7 +981,7 @@ Avely 开放注册了
 
 ## 20:21 📝 嘟文
 
-**内容**：CherryStudio 出移动端了，<https://github.com/CherryHQ/cherry-studio-app/releases/tag/0.1.0>
+**内容**：CherryStudio 出移动端了，https://github.com/CherryHQ/cherry-studio-app/releases/tag/0.1.0
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115474409775147865
 
@@ -1003,7 +1003,7 @@ Avely 开放注册了
 
 ## 23:06 📝 嘟文
 
-**内容**：Gemini 的评价好高🤣，项目是 <https://github.com/Eyozy/flomo-to-markdown>
+**内容**：Gemini 的评价好高🤣，项目是 https://github.com/Eyozy/flomo-to-markdown
 
 ![Image](media/115458069681446201-f9cb260347940c67.png)
 
@@ -1046,7 +1046,7 @@ Avely 开放注册了
 
 ## 18:17 📝 嘟文
 
-**内容**：RE: <https://mastodon.social/@Eyoz/115083968447919272>
+**内容**：RE: https://mastodon.social/@Eyoz/115083968447919272
 
 换成 Gemini 了，同样的错误 Gemini 一遍过，GLM 改几遍还是不行
 
@@ -1102,7 +1102,7 @@ Avely 开放注册了
 
 ## 19:52 📝 嘟文
 
-**内容**：更新了我的 Bento 页面，<https://bento.me/Eyoz>
+**内容**：更新了我的 Bento 页面，https://bento.me/Eyoz
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115383699170549678
 
@@ -1181,7 +1181,7 @@ Avely 开放注册了
 ## 01:38 📝 嘟文
 
 **内容**：iPhone 系列参数对比，新款的也有了  
-<https://www.hubweb.cn/apple-device/iphone/>
+https://www.hubweb.cn/apple-device/iphone/
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115237842914099707
 
@@ -1233,7 +1233,7 @@ Avely 开放注册了
 ## 21:35 📝 嘟文
 
 **内容**：好看🥰  
-原帖：<https://www.instagram.com/p/DOEiP-MCswo>
+原帖：https://www.instagram.com/p/DOEiP-MCswo
 
 ![Image](media/115174595232526697-df46c9934ec07eb1.jpg)
 
@@ -1242,7 +1242,7 @@ Avely 开放注册了
 ---
 ## 03:14 📝 嘟文
 
-**内容**：好酷的邮箱后缀，<https://z.org>
+**内容**：好酷的邮箱后缀，https://z.org
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115170269524846434
 
@@ -1321,7 +1321,7 @@ Avely 开放注册了
 ## 12:41 💬 回复
 
 **内容**：这张图片也是用 Nano-banana 生成的  
-<https://mastodon.social/@Eyoz/115062543956261881>
+https://mastodon.social/@Eyoz/115062543956261881
 
 **回复嘟文**：https://mastodon.social/@Eyoz/115104552248048609
 
@@ -1337,7 +1337,7 @@ Avely 开放注册了
 ---
 ## 06:21 📝 嘟文
 
-**内容**：发现个不错的搜索引擎，<https://www.startpage.com>
+**内容**：发现个不错的搜索引擎，https://www.startpage.com
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115103058533035910
 
@@ -1417,7 +1417,7 @@ Avely 开放注册了
 ---
 ## 02:38 📝 嘟文
 
-**内容**：发现个好玩的网站，<https://lmarena.ai>
+**内容**：发现个好玩的网站，https://lmarena.ai
 
 ![Image](media/115062540098142653-c5c5c8c91e3563c9.jpg)
 
@@ -1468,7 +1468,7 @@ Avely 开放注册了
 ## 23:25 📝 嘟文
 
 **内容**：电脑功率计算器  
-<https://www.pplp.info/calc>
+https://www.pplp.info/calc
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115044799860434553
 
@@ -1529,7 +1529,7 @@ Avely 开放注册了
 ---
 ## 20:08 💬 回复
 
-**内容**：完成啦，开源在 <https://github.com/Eyozy/mastodon-vault-sync>
+**内容**：完成啦，开源在 https://github.com/Eyozy/mastodon-vault-sync
 
 **回复嘟文**：https://mastodon.social/@Eyoz/115038362449632819
 
@@ -1564,8 +1564,8 @@ Avely 开放注册了
 ## 20:01 📝 嘟文
 
 **内容**：在少数派看到个不错的 Astro 主题，Astro Pure  
-主页：<https://astro-pure.js.org>  
-发现自：<https://sspai.com/post/101813>
+主页：https://astro-pure.js.org  
+发现自：https://sspai.com/post/101813
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115027011362625082
 
