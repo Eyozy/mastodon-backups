@@ -7,6 +7,7 @@
 **原始嘟文**：https://mastodon.social/@Eyoz/116205321211892126
 
 ---
+
 ## 20:18 📝 嘟文
 
 **内容**：嗯，现在自动化同步了
@@ -26,6 +27,7 @@
 **原始嘟文**：https://mastodon.social/@Eyoz/116199676443148379
 
 ---
+
 ## 19:34 📝 嘟文
 
 **内容**：把闪电说换成了 LazyTyper，不仅占用低，而且功能和模型也更多  
@@ -77,6 +79,7 @@ https://lazytyper.com/
 **原始嘟文**：https://mastodon.social/@Eyoz/116166071614565807
 
 ---
+
 ## 10:00 💬 回复
 
 **内容**：又把 OpenClaw 装回来玩了，准备跑一些自动化任务和工作流
@@ -123,6 +126,7 @@ https://maas.ai-yuanjing.com/doc/pages/216556920/
 **原始嘟文**：https://mastodon.social/@Eyoz/116147985472361563
 
 ---
+
 ## 10:35 💬 回复
 
 **内容**：账号解封了👏  
@@ -196,6 +200,7 @@ https://x.com/medmuspg/status/2021198792524169650
 **原始嘟文**：https://mastodon.social/@Eyoz/116062056473035472
 
 ---
+
 ## 12:13 📝 嘟文
 
 **内容**：春运了，静音车厢也不静音了😐
@@ -214,6 +219,7 @@ https://www.youtube.com/watch?v=C_t7CIncHxM
 **原始嘟文**：https://mastodon.social/@Eyoz/116050945281818920
 
 ---
+
 ## 13:57 📝 嘟文
 
 **内容**：在家线上看完了疯狂动物城2
@@ -231,6 +237,7 @@ https://www.youtube.com/watch?v=C_t7CIncHxM
 **原始嘟文**：https://mastodon.social/@Eyoz/116047010238567917
 
 ---
+
 ## 19:18 📝 嘟文
 
 **内容**：Antgravity 中的 Opus4.6 终于下放到 Pro 账号了
@@ -238,6 +245,7 @@ https://www.youtube.com/watch?v=C_t7CIncHxM
 **原始嘟文**：https://mastodon.social/@Eyoz/116046057441808794
 
 ---
+
 ## 17:09 📝 嘟文
 
 **内容**：测试下消息同步机器人🤖
@@ -257,6 +265,7 @@ https://www.youtube.com/watch?v=C_t7CIncHxM
 **原始嘟文**：https://mastodon.social/@Eyoz/116034530794769591
 
 ---
+
 ## 18:00 📝 嘟文
 
 **内容**：接入豆包模型的 OpenClaw 就像个智障😓
@@ -274,6 +283,7 @@ https://www.youtube.com/watch?v=C_t7CIncHxM
 **原始嘟文**：https://mastodon.social/@Eyoz/116023573974376183
 
 ---
+
 ## 15:58 📝 嘟文
 
 **内容**：感觉 Codex 中的模型速度变快了
@@ -346,6 +356,7 @@ https://github.com/vercel-labs/add-skill
 **原始嘟文**：https://mastodon.social/@Eyoz/115938894901946078
 
 ---
+
 ## 16:50 📝 嘟文
 
 **内容**：刀马应该请王千源来演，而不是吴京，当前其他人物的选角也是一言难尽
@@ -377,6 +388,7 @@ https://github.com/vercel-labs/add-skill
 **回复嘟文**：https://mastodon.social/@Eyoz/115921841551052816
 
 ---
+
 ## 19:21 📝 嘟文
 
 **内容**：发送链接，等待 AI 执行完成
@@ -386,6 +398,7 @@ https://github.com/vercel-labs/add-skill
 **原始嘟文**：https://mastodon.social/@Eyoz/115921499470943676
 
 ---
+
 ## 18:47 📝 嘟文
 
 **内容**：Gemini CLI 也支持 skills 了，/settings 打开设置，搜索 Agent 将 Agent Skills 改为 true，把 skills 复制到 /用户名/.gemini/skills 中，重启终端就能调用 skills 了
@@ -395,6 +408,7 @@ https://github.com/vercel-labs/add-skill
 **原始嘟文**：https://mastodon.social/@Eyoz/115921364443017271
 
 ---
+
 ## 14:11 📝 嘟文
 
 **内容**：AI 可以帮你记笔记写笔记，但它不能代替你思考，去帮你提问
@@ -447,6 +461,7 @@ https://astro.build/blog/joining-cloudflare/
 **原始嘟文**：https://mastodon.social/@Eyoz/115870609748822623
 
 ---
+
 ## 17:28 📝 嘟文
 
 **内容**：这个项目不错，可以在 Pixel 上实时显示网速  
@@ -492,6 +507,7 @@ https://github.com/Eyozy/duodash
 **回复嘟文**：https://mastodon.social/@Eyoz/115825946810428687
 
 ---
+
 ## 18:10 📝 嘟文
 
 **内容**：学到个小技巧，Mac 上按住 Option + 全屏按钮可以最大化窗口
@@ -509,6 +525,7 @@ https://github.com/Eyozy/duodash
 **原始嘟文**：https://mastodon.social/@Eyoz/115820459099726901
 
 ---
+
 ## 23:02 💬 回复
 
 **内容**：[@cybette](https://mastodon.org.uk/@cybette) Thanks. Happy New Year!🎉
@@ -516,6 +533,7 @@ https://github.com/Eyozy/duodash
 **回复嘟文**：https://mastodon.social/@Eyoz/115820445241320418
 
 ---
+
 ## 17:50 💬 回复
 
 **内容**：[@cybette](https://mastodon.org.uk/@cybette) Glad you like this GitHub active graph! I've fixed the bug with image wraps and overlaps.
@@ -537,6 +555,7 @@ https://mastodon-wrapped.vercel.app/
 **原始嘟文**：https://mastodon.social/@Eyoz/115803501449112983
 
 ---
+
 ## 22:55 📝 嘟文
 
 **内容**：优化后的界面（图二）似乎更贴合网站
@@ -559,6 +578,7 @@ https://mastodon-wrapped.vercel.app/
 **回复嘟文**：https://mastodon.social/@Eyoz/115796497200292489
 
 ---
+
 ## 16:08 📝 嘟文
 
 **内容**：把 Mac 上的剪切板换成了 iClipboard，算是目前最符合我需求的了  
@@ -589,6 +609,7 @@ Avely 开放注册了
 **回复嘟文**：https://mastodon.social/@Eyoz/115769349979416244
 
 ---
+
 ## 08:58 📝 嘟文
 
 **内容**：好漂亮的网站，https://rene.wang/
@@ -601,7 +622,8 @@ Avely 开放注册了
 
 ## 11:33 📝 嘟文
 
-**内容**：![Image](media/115755388223446595-160ab7c296c85515.png)
+**内容**：## 附件
+![Image](media/115755388223446595-160ab7c296c85515.png)
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115755451762457704
 
@@ -619,6 +641,7 @@ Avely 开放注册了
 **原始嘟文**：https://mastodon.social/@Eyoz/115750746333660321
 
 ---
+
 ## 13:54 📝 嘟文
 
 **内容**：原来 The Unarchiver 和 CleanMyMac 都是 MacPaw 旗下的产品
@@ -652,6 +675,7 @@ Avely 开放注册了
 **原始嘟文**：https://mastodon.social/@Eyoz/115735106668439800
 
 ---
+
 ## 19:16 📝 嘟文
 
 **内容**：每天 500 次对话，高频使用应该还能有剩余
@@ -684,6 +708,7 @@ https://github.com/jlcodes99/vscode-antigravity-cockpit
 **原始嘟文**：https://mastodon.social/@Eyoz/115723844387170773
 
 ---
+
 ## 10:14 📝 嘟文
 
 **内容**：NotebookLM 生成的 PDF 可以发送给 Gemini，告诉它生成 PPT，生成后导入 Google 幻灯片就得到一份可下载的 PPT 了
@@ -760,6 +785,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **回复嘟文**：https://mastodon.social/@Eyoz/115661597763996513
 
 ---
+
 ## 18:23 📝 嘟文
 
 **内容**：白嫖到谷歌云的 300 美元赠金了
@@ -769,6 +795,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115660802699151795
 
 ---
+
 ## 11:35 📝 嘟文
 
 **内容**：\n 算是 Bug 吗，还是故意这样设计的？😂
@@ -778,6 +805,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115659198928038861
 
 ---
+
 ## 10:19 📝 嘟文
 
 **内容**：在考虑要不要买个域名了🤔
@@ -785,6 +813,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115658900971559807
 
 ---
+
 ## 02:07 📝 嘟文
 
 **内容**：啊啊啊啊傻逼火山方舟😡，把我的项目文件夹给清空了，一点提示也没有
@@ -816,6 +845,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115644336214438677
 
 ---
+
 ## 18:43 📝 嘟文
 
 **内容**：Cline 这个错误提示真是亮瞎眼啊
@@ -825,6 +855,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115643894331415459
 
 ---
+
 ## 07:56 📝 嘟文
 
 **内容**：做了个好玩的新项目
@@ -839,11 +870,13 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 
 ## 22:47 💬 回复
 
-**内容**：![Image](media/115639192140218119-055bb10bde85bd25.jpg)
+**内容**：## 附件
+![Image](media/115639192140218119-055bb10bde85bd25.jpg)
 
 **回复嘟文**：https://mastodon.social/@Eyoz/115639193208432527
 
 ---
+
 ## 22:40 💬 回复
 
 **内容**：提示词来源：https://x.com/IamEmily2050/status/1994624635300974734
@@ -853,6 +886,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **回复嘟文**：https://mastodon.social/@Eyoz/115639166512579086
 
 ---
+
 ## 18:06 📝 嘟文
 
 **内容**：Nano Banana Pro 太好玩了
@@ -873,6 +907,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115633275916863351
 
 ---
+
 ## 12:40 📝 嘟文
 
 **内容**：Sora 生成的这张图片好贴合动漫风格
@@ -882,6 +917,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115631143743752450
 
 ---
+
 ## 12:06 📝 嘟文
 
 **内容**：阿里新出的这个模型好强，连 NSFW 图片都可以生成，https://huggingface.co/spaces/Tongyi-MAI/Z-Image-Turbo
@@ -899,6 +935,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **回复嘟文**：https://mastodon.social/@Eyoz/115621637618947350
 
 ---
+
 ## 16:54 📝 嘟文
 
 **内容**：又一款 Mac 专属的 Astro CMS 编辑器，类似产品还有博客介绍过的 Darkmatter
@@ -908,6 +945,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115620818123587330
 
 ---
+
 ## 00:35 📝 嘟文
 
 **内容**：踩坑了，买了一家冷门机场
@@ -949,6 +987,7 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 **原始嘟文**：https://mastodon.social/@Eyoz/115576322005440290
 
 ---
+
 ## 01:19 📝 嘟文
 
 **内容**：Gemini 3 来了
@@ -996,11 +1035,13 @@ https://github.com/vibe-log/vibe-log-cli
 
 ## 21:52 📝 嘟文
 
-**内容**：![Image](media/115537047224932604-b0b72408be98c654.png)
+**内容**：## 附件
+![Image](media/115537047224932604-b0b72408be98c654.png)
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115537054110474214
 
 ---
+
 ## 18:22 📝 嘟文
 
 **内容**：RE: https://mastodon.social/@Eyoz/115531330005515603
@@ -1020,6 +1061,7 @@ https://github.com/vibe-log/vibe-log-cli
 **回复嘟文**：https://mastodon.social/@Eyoz/115531775503540803
 
 ---
+
 ## 21:36 📝 嘟文
 
 **内容**：豆包的 Coding Plan 用量好大方  
@@ -1065,6 +1107,7 @@ https://www.volcengine.com/activity/codingplan
 **原始嘟文**：https://mastodon.social/@Eyoz/115485314689019727
 
 ---
+
 ## 01:27 💬 回复
 
 **内容**：卡顿后 Mac mini 发热严重，风扇一直运转且带有噪音，只能强制关机解决😓
@@ -1072,6 +1115,7 @@ https://www.volcengine.com/activity/codingplan
 **回复嘟文**：https://mastodon.social/@Eyoz/115481278023535856
 
 ---
+
 ## 01:19 📝 嘟文
 
 **内容**：第四次🤮，卸载换其他的了
@@ -1125,6 +1169,7 @@ https://www.volcengine.com/activity/codingplan
 **原始嘟文**：https://mastodon.social/@Eyoz/115458073731720857
 
 ---
+
 ## 15:57 📝 嘟文
 
 **内容**：新图标
@@ -1151,7 +1196,8 @@ https://www.volcengine.com/activity/codingplan
 
 ## 17:16 📝 嘟文
 
-**内容**：![Image](media/115445370721997254-02cb2269a60d693a.png)
+**内容**：## 附件
+![Image](media/115445370721997254-02cb2269a60d693a.png)
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115445371042166587
 
@@ -1301,6 +1347,7 @@ https://www.hubweb.cn/apple-device/iphone/
 **原始嘟文**：https://mastodon.social/@Eyoz/115237842914099707
 
 ---
+
 ## 00:11 💬 回复
 
 **内容**：太傻逼了🤬
@@ -1355,6 +1402,7 @@ https://www.hubweb.cn/apple-device/iphone/
 **原始嘟文**：https://mastodon.social/@Eyoz/115174599457745354
 
 ---
+
 ## 03:14 📝 嘟文
 
 **内容**：好酷的邮箱后缀，https://z.org
@@ -1404,6 +1452,7 @@ https://www.hubweb.cn/apple-device/iphone/
 **原始嘟文**：https://mastodon.social/@Eyoz/115118263271445035
 
 ---
+
 ## 18:09 📝 嘟文
 
 **内容**：才知道 Unsplash 可以识图搜索了😦
@@ -1421,6 +1470,7 @@ https://www.hubweb.cn/apple-device/iphone/
 **原始嘟文**：https://mastodon.social/@Eyoz/115112753675703673
 
 ---
+
 ## 22:21 💬 回复
 
 **内容**：好美🥰
@@ -1441,6 +1491,7 @@ https://mastodon.social/@Eyoz/115062543956261881
 **回复嘟文**：https://mastodon.social/@Eyoz/115104552248048609
 
 ---
+
 ## 11:45 📝 嘟文
 
 **内容**：Nano-banana 可太好玩啦
@@ -1450,6 +1501,7 @@ https://mastodon.social/@Eyoz/115062543956261881
 **原始嘟文**：https://mastodon.social/@Eyoz/115104332050631681
 
 ---
+
 ## 06:21 📝 嘟文
 
 **内容**：发现个不错的搜索引擎，https://www.startpage.com
@@ -1467,6 +1519,7 @@ https://mastodon.social/@Eyoz/115062543956261881
 **原始嘟文**：https://mastodon.social/@Eyoz/115089489944953718
 
 ---
+
 ## 18:25 📝 嘟文
 
 **内容**：洗衣液都能有假货了😵
@@ -1494,6 +1547,7 @@ https://mastodon.social/@Eyoz/115062543956261881
 **回复嘟文**：https://mastodon.social/@Eyoz/115075203587538737
 
 ---
+
 ## 05:43 📝 嘟文
 
 **内容**：原来欧路词典的翻译引擎可以选免费的 GLM-4-Flash😂
@@ -1523,6 +1577,7 @@ https://mastodon.social/@Eyoz/115062543956261881
 **原始嘟文**：https://mastodon.social/@Eyoz/115065786188325496
 
 ---
+
 ## 04:35 📝 嘟文
 
 **内容**：想买个移动硬盘，仔细去了解发现有这么多讲究😂
@@ -1530,6 +1585,7 @@ https://mastodon.social/@Eyoz/115062543956261881
 **原始嘟文**：https://mastodon.social/@Eyoz/115063004246171803
 
 ---
+
 ## 02:38 📝 嘟文
 
 **内容**：发现个好玩的网站，https://lmarena.ai
@@ -1551,6 +1607,7 @@ https://mastodon.social/@Eyoz/115062543956261881
 **回复嘟文**：https://mastodon.social/@Eyoz/115053885524045059
 
 ---
+
 ## 10:23 📝 嘟文
 
 **内容**：给 VSCode 换上了新主题
@@ -1570,6 +1627,7 @@ https://mastodon.social/@Eyoz/115062543956261881
 **原始嘟文**：https://mastodon.social/@Eyoz/115049110464929593
 
 ---
+
 ## 02:04 📝 嘟文
 
 **内容**：这几天用 Tabby 一直有报错弹窗，准备换其他终端临时代替了😑
@@ -1588,6 +1646,7 @@ https://www.pplp.info/calc
 **原始嘟文**：https://mastodon.social/@Eyoz/115044799860434553
 
 ---
+
 ## 16:36 📝 嘟文
 
 **内容**：出门看浪浪山了🤗
@@ -1595,6 +1654,7 @@ https://www.pplp.info/calc
 **原始嘟文**：https://mastodon.social/@Eyoz/115043191024359924
 
 ---
+
 ## 15:33 📝 嘟文
 
 **内容**：😍
@@ -1604,6 +1664,7 @@ https://www.pplp.info/calc
 **原始嘟文**：https://mastodon.social/@Eyoz/115042942242268115
 
 ---
+
 ## 05:29 💬 回复
 
 **内容**：等会就天亮了😮‍💨
@@ -1611,6 +1672,7 @@ https://www.pplp.info/calc
 **回复嘟文**：https://mastodon.social/@Eyoz/115040570064850717
 
 ---
+
 ## 03:17 💬 回复
 
 **内容**：修好了，发条嘟文运行试下😬
@@ -1618,6 +1680,7 @@ https://www.pplp.info/calc
 **回复嘟文**：https://mastodon.social/@Eyoz/115040050139493200
 
 ---
+
 ## 02:16 💬 回复
 
 **内容**：有个 Bug，汇总的嘟文会重复生成，不是增量更新😬
@@ -1625,6 +1688,7 @@ https://www.pplp.info/calc
 **回复嘟文**：https://mastodon.social/@Eyoz/115039809190125656
 
 ---
+
 ## 01:56 📝 嘟文
 
 **内容**：准备申请一张国内的外币卡，折腾虚拟卡太费事了😮‍💨
@@ -1642,6 +1706,7 @@ https://www.pplp.info/calc
 **原始嘟文**：https://mastodon.social/@Eyoz/115039145702168382
 
 ---
+
 ## 20:08 💬 回复
 
 **内容**：完成啦，开源在 https://github.com/Eyozy/mastodon-vault-sync
@@ -1649,6 +1714,7 @@ https://www.pplp.info/calc
 **回复嘟文**：https://mastodon.social/@Eyoz/115038362449632819
 
 ---
+
 ## 03:50 📝 嘟文
 
 **内容**：失眠了😫
@@ -1666,6 +1732,7 @@ https://www.pplp.info/calc
 **回复嘟文**：https://mastodon.social/@Eyoz/115032198962785455
 
 ---
+
 ## 16:58 📝 嘟文
 
 **内容**：瑞幸新上的芦荟冰茶还挺好喝 :BlobhajTinyHeart:
@@ -1685,6 +1752,7 @@ https://www.pplp.info/calc
 **原始嘟文**：https://mastodon.social/@Eyoz/115027011362625082
 
 ---
+
 ## 00:34 📝 嘟文
 
 **内容**：准备让 AI 帮我写一个自动备份嘟文到 Obsidian 的工具😋
@@ -1702,6 +1770,7 @@ https://www.pplp.info/calc
 **回复嘟文**：https://mastodon.social/@Eyoz/115015130115983772
 
 ---
+
 ## 17:06 📝 嘟文
 
 **内容**：除欧路以外，Trancy 和陪读蛙都不错，可以替换我的欧路翻译了😋
