@@ -1,3 +1,24 @@
+# 2026-04-16
+
+## 09:37 📝 嘟文
+
+**内容**：继腾讯云推出 Hermes 的云端部署，MiniMax 也上线了自己的部署服务，国内其他公司估计也会跟进，毕竟又能多赚一笔😂  
+1、https://cloud.tencent.com/act/pro/hermesagent  
+2、https://agent.minimaxi.com/max-hermes
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116411822614213877
+
+---
+
+## 09:00 📝 嘟文
+
+**内容**：换上了新壁纸✌️  
+https://x.com/KomixBro/status/2043879506121760914
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116411678977339565
+
+---
+
 # 2026-04-15
 
 ## 19:49 📝 嘟文
