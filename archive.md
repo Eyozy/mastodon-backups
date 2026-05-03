@@ -1,3 +1,14 @@
+# 2026-05-03
+
+## 15:48 📝 嘟文
+
+**内容**：Markdown 转换工具  
+https://github.com/microsoft/markitdown
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116509541972980146
+
+---
+
 # 2026-05-01
 
 ## 17:44 📝 嘟文
