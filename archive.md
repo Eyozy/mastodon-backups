@@ -1,3 +1,16 @@
+# 2026-05-20
+
+## 17:30 📝 嘟文
+
+**内容**：RE: https://mastodon.social/@Eyoz/115718224754902631
+
+不能换成竖向的吗🙄  
+https://meta.appinn.net/t/topic/85585
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116606200394905145
+
+---
+
 # 2026-05-17
 
 ## 23:59 📝 嘟文
