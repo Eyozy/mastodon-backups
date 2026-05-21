@@ -1,3 +1,16 @@
+# 2026-05-21
+
+## 10:49 📝 嘟文
+
+**内容**：Gemini 也有限额了，并且上线好几天了  
+https://support.google.com/gemini/answer/17004136
+
+![Image](media/116610287150712774-7db3ee3ae43dd932.png)
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116610287198590845
+
+---
+
 # 2026-05-20
 
 ## 20:55 📝 嘟文
