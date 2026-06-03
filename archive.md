@@ -1,5 +1,14 @@
 # 2026-06-03
 
+## 09:39 📝 嘟文
+
+**内容**：CSS-native parallax effect  
+https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116683623245482276
+
+---
+
 ## 00:30 📝 嘟文
 
 **内容**：如果你的朋友/商业伙伴让你试用某个产品，对这个产品最好的帮助是你的客观评价
