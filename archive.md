@@ -1,3 +1,15 @@
+# 2026-06-05
+
+## 08:22 📝 嘟文
+
+**内容**：AI 驱动的 RSS 订阅源翻译工具  
+https://github.com/zyxisme/rssume  
+类似项目还有 RSSBox，https://github.com/versun/RSSBox
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116694642959306008
+
+---
+
 # 2026-06-04
 
 ## 10:55 📝 嘟文
