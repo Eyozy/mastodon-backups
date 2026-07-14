@@ -1,3 +1,14 @@
+# 2026-07-14
+
+## 18:51 📝 嘟文
+
+**内容**：Antigravity CLI 原来也可以开启危险模式  
+https://discuss.ai.google.dev/t/help-how-to-enable-yolo-mode-or-similar-in-antigravity-cli/146209
+
+**原始嘟文**：https://mastodon.social/@Eyoz/116917946413311302
+
+---
+
 # 2026-07-05
 
 ## 13:52 📝 嘟文
