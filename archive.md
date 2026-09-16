@@ -1,3 +1,14 @@
+# 2026-09-16
+
+## 13:36 📝 嘟文
+
+**内容**：这个不错，功能比 Stats 更多占用也低  
+https://github.com/gentpan/OpenStats
+
+**原始嘟文**：https://mastodon.social/@Eyoz/117279097787209483
+
+---
+
 # 2026-09-12
 
 ## 10:07 📝 嘟文
