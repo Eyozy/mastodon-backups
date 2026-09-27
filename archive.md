@@ -1,5 +1,14 @@
 # 2026-09-27
 
+## 21:25 📝 嘟文
+
+**内容**：De1984 是一款 Android 开源防火墙和包管理应用，支持 iptables（root/Shizuku）、ConnectivityManager 和 VPN 三种后端，可独立阻止应用访问 WiFi、移动数据或漫游，并提供系统应用启用/禁用、强制停止、卸载等包管理功能。  
+https://github.com/dorumrr/de1984
+
+**原始嘟文**：https://mastodon.social/@Eyoz/117343224770439479
+
+---
+
 ## 09:29 📝 嘟文
 
 **内容**：卡片的动画效果做得真好  
