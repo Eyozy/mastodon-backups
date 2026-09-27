@@ -1,3 +1,14 @@
+# 2026-09-27
+
+## 09:29 📝 嘟文
+
+**内容**：卡片的动画效果做得真好  
+https://www.reddit.com/r/vibecoding/comments/1wqwxaa/rip_packs/
+
+**原始嘟文**：https://mastodon.social/@Eyoz/117340410418011357
+
+---
+
 # 2026-09-23
 
 ## 00:25 📝 嘟文
