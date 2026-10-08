@@ -1,3 +1,14 @@
+# 2026-10-08
+
+## 10:35 📝 嘟文
+
+**内容**：为 LLM 设计的 HTML 转 Markdown 工具  
+https://github.com/harlan-zw/mdream
+
+**原始嘟文**：https://mastodon.social/@Eyoz/117402956689389218
+
+---
+
 # 2026-09-30
 
 ## 17:01 💬 回复
