@@ -1,3 +1,14 @@
+# 2026-10-29
+
+## 19:19 💬 回复
+
+**内容**：另一个同类项目 LightPost，支持更多平台，并且可以部署在自己的电脑或服务器上  
+https://github.com/brainstormity/LightPost
+
+**回复嘟文**：https://mastodon.social/@Eyoz/117523922641459583
+
+---
+
 # 2026-10-21
 
 ## 20:49 📝 嘟文
