@@ -341,6 +341,8 @@ https://github.com/can1357/oh-my-pi
 
 **内容**：解锁了新图标✌️
 
+![Image](media/117168018447625781-c3b39100f2d83dfa.png)
+
 **原始嘟文**：https://mastodon.social/@Eyoz/117168018492604323
 
 ---
@@ -482,6 +484,8 @@ https://x.com/_mohansolo/status/2079636156589994347
 
 **内容**：YouTube 接入 Gemini 了
 
+![Image](media/116946997389808029-30b647a35e68ad6a.png)
+
 **原始嘟文**：https://mastodon.social/@Eyoz/116946997454595721
 
 ---
@@ -556,6 +560,8 @@ https://www.instagram.com/p/DZ8tPWukdpZ/
 ## 18:02 📝 嘟文
 
 **内容**：原来每天是有上限的，头一次用到限制😂
+
+![Image](media/116821493367816808-72b69eacaa58cb1b.png)
 
 **原始嘟文**：https://mastodon.social/@Eyoz/116821493419680204
 
@@ -1110,6 +1116,8 @@ https://x.com/choppers_op/status/2034842367480762661
 
 **内容**：嗯，现在自动化同步了
 
+![Image](media/116204837109291369-842657e1d6ff1827.png)
+
 **原始嘟文**：https://mastodon.social/@Eyoz/116204837281035325
 
 ---
@@ -1646,6 +1654,7 @@ https://github.com/Eyozy/duodash
 https://mastodon-wrapped.vercel.app/
 
 ![Image](media/115803451412061016-641cedfb8073350d.png)
+![Image](media/115803451567470957-bb3e31796e6b18dc.png)
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115803501449112983
 
@@ -1874,6 +1883,8 @@ https://cloud.google.com/generative-ai-app-builder/pricing?hl=zh-cn
 ## 21:45 💬 回复
 
 **内容**：又送了 1000 美元的赠金，谷歌真是大善人啊
+
+![Image](media/115661593165010842-db2af96e2e7e8383.png)
 
 **回复嘟文**：https://mastodon.social/@Eyoz/115661597763996513
 
@@ -2185,6 +2196,8 @@ https://www.volcengine.com/activity/codingplan
 **内容**：试了自己的，评价好高🤣  
 发现于：https://x.com/hwwaanng/status/1985275729278541990
 
+![Image](media/115491969251884227-78f4f89a12a7d45f.png)
+
 **原始嘟文**：https://mastodon.social/@Eyoz/115491984200289976
 
 ---
@@ -2389,6 +2402,8 @@ https://www.volcengine.com/activity/codingplan
 ## 23:09 📝 嘟文
 
 **内容**：赏月🎑
+
+![Image](media/115333510888029533-ecd8ec42ff927706.jpg)
 
 **原始嘟文**：https://mastodon.social/@Eyoz/115333512908702057
 
